@@ -14,7 +14,7 @@ This application simulates a task queue system with the following features:
 - ✅ **Average waiting time calculation**  
 - ✅ Ability to **export queue states** to CSV or JSON files  
 
-[![View Code](https://img.shields.io/badge/View%20Code-task_queue.c-blue?style=for-the-badge)](https://github.com/ZiyadAzzaz/Task-Queue-Simulator/blob/main/task_queue.c)
+[![View Code](https://img.shields.io/badge/View%20Code-task_queue.c-blue?style=for-the-badge)](https://github.com/ZiyadAzzaz/Task-Queue-Simulator/blob/main/Final_Queue.c)
 
 The task queue uses a **priority queue** to ensure higher priority tasks are processed first.
 
@@ -65,7 +65,7 @@ Each task includes:
    You need a **C compiler** (like GCC) to compile the program. Run the following command in the terminal:
 
    ```bash
-   gcc -o task-queue main.c
+   gcc -o task-queue Final_Queue.c
    ```
 
 3. **Run the program**:
@@ -76,7 +76,7 @@ Each task includes:
    ./task-queue
    ```
 
-👉 [View the complete C source code here](https://github.com/your-username/Task-Queue-Simulator/blob/main/main.c)
+👉 [View the complete C source code here](https://github.com/your-username/Task-Queue-Simulator/blob/main/Final_Queue.c)
 
 ---
 
